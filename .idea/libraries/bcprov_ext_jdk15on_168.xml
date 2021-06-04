@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bcprov-ext-jdk15on-168">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WutApp2/lib/bcprov-ext-jdk15on-168.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
